@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="yashvichauhan" /> </p>
 
-- 🔭 I’m currently working on [LittleReadStore](https://github.com/yashvichauhan/LittleReadStore)
+- 🔭 I’m currently working on [RecipeVault]((https://github.com/yashvichauhan/RecipeVault))
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AWS, .NET**
 
 - 💬 Ask me about **React, Javascript, Typescript, .NET, AWS, Azure Services**
 
