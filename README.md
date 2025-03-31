@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS, DevOps**
 
-- 💬 Ask me about **React, Javascript, Typescript, Azure Services**
+- 💬 Ask me about **React, .NET, Javascript, Typescript, Azure Services**
 
 - 📫 How to reach me: **ychauh11@my.centennialcollege.ca**
 
