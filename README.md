@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [LittleReadStore](https://github.com/yashvichauhan/LittleReadStore) Project
 
-- 🌱 I’m currently learning **AWS, **DevOps
+- 🌱 I’m currently learning **AWS, DevOps**
 
 - 💬 Ask me about **React, Javascript, Typescript, Azure Services**
 
